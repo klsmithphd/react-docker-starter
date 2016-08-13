@@ -1,0 +1,20 @@
+{
+  "name": "react-docker-starter",
+  "version": "1.0.0",
+  "description": "This project allows you to get up and running with developing a React application within a Docker container while installing no dependencies to your host operating system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ken-2scientists/react-docker-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ken-2scientists/react-docker-starter/issues"
+  },
+  "homepage": "https://github.com/Ken-2scientists/react-docker-starter#readme"
+}
