@@ -1,0 +1,5 @@
+react:
+  build: .
+  command: echo 'ready'
+  volumes:
+    - .:/home/appuser/workdir
