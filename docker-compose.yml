@@ -3,3 +3,4 @@ react:
   command: echo 'ready'
   volumes:
     - .:/home/appuser/workdir
+    - /home/appuser/workdir/node_modules
