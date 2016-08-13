@@ -23,3 +23,8 @@ or [Docker for Mac](https://docs.docker.com/engine/installation/mac/#docker-for-
 5. Make any edits you like to the application code and see the changes reflected
 live in your browser.
 6. I'd also recommend looking at the [React Developer Tools Chrome Plugin](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) as well.
+
+
+If you need to shell into the container (e.g. to install new npm dependencies),
+you can just issue:
+    docker-compose exec react /bin/bash
