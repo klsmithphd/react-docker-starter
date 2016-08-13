@@ -19,7 +19,7 @@ you are on a Mac or Windows system, be sure to install the now-out-of-private-be
 or [Docker for Mac](https://docs.docker.com/engine/installation/mac/#docker-for-mac).
 2. `docker-compose build`
 3. `docker-compose up`
-4. Open http://localhost:3333 in a browser window.
+4. Open [http://localhost:3333](http://localhost:3333) in a browser window.
 5. Make any edits you like to the application code and see the changes reflected
 live in your browser.
 6. I'd also recommend looking at the [React Developer Tools Chrome Plugin](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) as well.
