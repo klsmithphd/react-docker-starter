@@ -1,6 +1,7 @@
 react:
   build: .
-  command: echo 'ready'
+  ports:
+    - '3333:3333'
   volumes:
     - .:/home/appuser/workdir
     - /home/appuser/workdir/node_modules
